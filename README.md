@@ -1,11 +1,12 @@
+<!-- PROJECT LOGO -->
+
 # Relvise
-### Финансово-консалтинговое агентство
+### Finance and Consultancy Solution
+<a href="https://bloodw1n.github.io/relvise/">View Demo</a>
 
-Стек:
-- HTML (semantic)
-- CSS (responsive, adaptive под все устройства)
+### Built With
+![HTML(Semantic)](https://img.shields.io/badge/Semantic_HTML-%23454d59.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS (Pure)](https://img.shields.io/badge/Pure_CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<!-- GETTING STARTED -->
 
-![monitor](img/readme/1.png)
-![ipad](img/readme/2.png)
-![phone](img/readme/3.png)
-![phone](img/readme/4.png)
+
